@@ -1,0 +1,40 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Fluxo",
+      "hasCanvas": false,
+      "bodyTextLen": 599,
+      "bodyTextHash": "257f6206267260d2dbf7792ed9ce74de1faebad8f59fa60f7b856bee91030069",
+      "bodyTextPrefix": "ROTINA Fluxo Seu dia, em vidro. Quarta-feira, 11 de novembro 0% ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Fluxo",
+      "hasCanvas": false,
+      "bodyTextLen": 599,
+      "bodyTextHash": "257f6206267260d2dbf7792ed9ce74de1faebad8f59fa60f7b856bee91030069",
+      "bodyTextPrefix": "ROTINA Fluxo Seu dia, em vidro. Quarta-feira, 11 de novembro 0% ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": true,
+  "baselineReasons": [
+    "desktop: body text replaced (similar length, page start changed)"
+  ]
+}

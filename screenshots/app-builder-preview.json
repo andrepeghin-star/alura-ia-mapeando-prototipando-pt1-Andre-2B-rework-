@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Fluxo",
+      "hasCanvas": false,
+      "bodyTextLen": 575,
+      "bodyTextHash": "f6cc69b5245689cc2511f18f0df535af949e8c44da4d3708d2a7f2f20b31b0ff",
+      "bodyTextPrefix": "ROTINA Fluxo Seu dia, em vidro. Hoje 0% 0 de 25 feitos Escola de",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Fluxo",
+      "hasCanvas": false,
+      "bodyTextLen": 599,
+      "bodyTextHash": "257f6206267260d2dbf7792ed9ce74de1faebad8f59fa60f7b856bee91030069",
+      "bodyTextPrefix": "ROTINA Fluxo Seu dia, em vidro. Quarta-feira, 11 de novembro 0% ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
